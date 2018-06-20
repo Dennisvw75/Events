@@ -1,0 +1,12 @@
+.cta-1 {
+  padding: 10px;
+  background: black;
+  color: #fff;
+  border-radius: 10px;
+  width: 200px;
+}
+
+.cta-1:hover {
+  background: red;
+  border-bottom: 2px solid blue;
+}
